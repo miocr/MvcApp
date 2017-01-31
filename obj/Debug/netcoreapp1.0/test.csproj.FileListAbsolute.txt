@@ -1,0 +1,5 @@
+C:\Users\Mihula\Documents\VSCode\test\bin\Debug\netcoreapp1.0\test.dll
+C:\Users\Mihula\Documents\VSCode\test\bin\Debug\netcoreapp1.0\test.pdb
+C:\Users\Mihula\Documents\VSCode\test\obj\Debug\netcoreapp1.0\test.AssemblyInfo.cs
+C:\Users\Mihula\Documents\VSCode\test\obj\Debug\netcoreapp1.0\test.dll
+C:\Users\Mihula\Documents\VSCode\test\obj\Debug\netcoreapp1.0\test.pdb
